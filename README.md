@@ -1,5 +1,5 @@
-# Aretmis_Final_Proj
-Code for the final project for the Boston University Artemis Project 
+# Aretmis Final Project
+Code for the final Arduino project for the Boston University Artemis Project summer program
 
 
-**July 2020 - August 2020**
+*July 2020 - August 2020*
